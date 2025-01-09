@@ -1,0 +1,143 @@
+{
+    "samples": [
+      {
+        "name": "PECLD07752 T1",
+        "model3D": "models/PECLD07752 T1.glb",
+        "image": "images/T1 16.20.jpg",
+        "description": "Muv 0.67, Clt 0.33, VD volcanoclastico color gris con py diss 3 per, con alte Clt mod, seri mod (no se logra diferenciar moscovita a la vista)"
+      },
+      {
+        "name": "PECLD07752 T2",
+        "model3D": "models/PECLD07752 T2.glb",
+        "image": "images/T2 63.75.jpg",
+        "description": "Muv 1, VD color gris claro con py diss 4 per y presencia de biotita puntual, con alte silic y sericita mod (micas de muscovita) "
+      },
+      {
+        "name": "PECLD07752 T3",
+        "model3D": "models/PECLD07752 T3.glb",
+        "image": "images/T3 120.30.jpg",
+        "description": "Clt 0.61, Flogopita 0.22, Kaolinite-PX 0.16, VD color gris con py 1 per diss, alte Clt ubicado en venilla, ser mod "
+      },
+      {
+        "name": "PECLD07752 T4",
+        "model3D": "models/PECLD07752 T4.glb",
+        "image": "images/T4 126.85.jpg",
+        "description": "Muv 1, VM color gris de text porf, py  5 per diss, spha en parches, alte  Clt mod distribuida en parches y seri mod (muscovita no diferenciable a simple vista)"
+      },
+      {
+        "name": "PECLD07753 T1",
+        "model3D": "models/PECLD07753 T1.glb",
+        "image": "images/T1 29.50.jpg",
+        "description": "Muv 1, VD color gris claro de text porf, py 1 per diss y parches, alte serict mod (presencia de muscovita) alte Clt debil puntual"
+      },
+      {
+        "name": "PECLD07753 T2",
+        "model3D": "models/PECLD07753 T2.glb",
+        "image": "images/T2 45.30.jpg",
+        "description": "Mont 0.69, ParagoniticIllite 0.301, VD color gris claro de text porf, py 2 per diss y parches, alte sili mod, seric debil"
+      },
+      {
+        "name": "PECLD07753 T3",
+        "model3D": "models/PECLD07753 T3.glb",
+        "image": "images/T3 100.35.jpg",
+        "description": "Muv 0.68, Muv 0.317, VD color gris claro tex porfb, py 5 per diss, alte seric mod, Clt debil de manera puntual"
+      },
+      {
+        "name": "PECLD07754 T1",
+        "model3D": "models/PECLD07754 T1.glb",
+        "image": "images/T1 169.00.jpg",
+        "description": "MuscoviticIllite 0.564, Mont 0.436, VD  color gris claro text afan py en trzs, presencia de arcillas, alte seric fuerte, silic debil"
+      },
+      {
+        "name": "PECLD07754 T2",
+        "model3D": "models/PECLD07754 T2.glb",
+        "image": "images/T2 79.75.jpg",
+        "description": "Muv 1, VD color gris claro de text afanitica, py 2 perc diss, presencia de micas de moscovita."
+      },
+      {
+        "name": "PECLD07754 T3",
+        "model3D": "models/PECLD07754 T3.glb",
+        "image": "images/T3 95.55.jpg",
+        "description": "Muv 0.555,  VD color gris text afanitica, py 1 per diss, alte Clt debil, seri debil, no se obseerva moscovita a simple vista."
+      },
+      {
+        "name": "PECLD07754 T4",
+        "model3D": "models/PECLD07754 T4.glb",
+        "image": "images/T4 147.20.jpg",
+        "description": "Muv 1, VM color gris claro, text afanitica, py 3 per diss, spha 2 per en parches, silic debil, seri mod (presencia de micas disseminados)"
+      },
+      {
+        "name": "PECLD07754 T5",
+        "model3D": "models/PECLD07754 T5.glb",
+        "image": "images/T5 57.70.jpg",
+        "description": "Muv 1, VD color gris text afan: py 2 per, presencia de biot por metamorf,  alte sili-seric mod (presencia de pequeñas micas visibles de moscovita)"
+      },
+      {
+        "name": "PECLD07754 T6",
+        "model3D": "models/PECLD07754 T6.glb",
+        "image": "images/T6 33.25.jpg",
+        "description": "Muv 1, VD color gris claro text porfb, py 1 per, presencia de motas de biot; alte seri debil, sili deb, no se observa muscovita a simple vista"
+      },
+      {
+        "name": "PECLD07755 T1",
+        "model3D": "models/PECLD07755 T1.glb",
+        "image": "images/T1 93.50.jpg",
+        "description": "Muv 0.788, Alunite-NH 0.21, VD color gris claro text afanit, py en trzs, alte silic mod, seric deb con presencia de micas."
+      },
+      {
+        "name": "PECLD07755 T2",
+        "model3D": "models/PECLD07755 T2.glb",
+        "image": "images/T2 A 59.20.jpg",
+        "description": "Muv 1, VD color gris claro, text afanitica, py 6 per diss, alte seric mod (presencia de micas), alte silic debil"
+      },
+      {
+        "name": "PECLD07755 T3",
+        "model3D": "models/PECLD07755 T3.glb",
+        "image": "images/T3 109.00.jpg",
+        "description": "Muv 1, VD color gris claro, text afant, py 2 per diss, altesilic mod, seric debil"
+      },
+      {
+        "name": "PECLD07755 T4",
+        "model3D": "models/PECLD07755 T4.glb",
+        "image": "images/T4 90.80.jpg",
+        "description": "MuscoviticIllite 1, VD color gris claro, text afanitica, py al 1 per diss, presencia de biot, alt silic mod, seric debil (presencia de pequeñas micas distribuidas en la muestra)"
+      },
+      {
+        "name": "PECLD07756 T1",
+        "model3D": "models/PECLD07756 T1.glb",
+        "image": "images/T1 130.30.jpg",
+        "description": "Ep 1, VD color gris oscuro, text porfid, py en trzs en parches puntuales, presencia de epidota en venilla, alte silic mod, Clt debil."
+      },
+      {
+        "name": "PECLD07756 T2",
+        "model3D": "models/PECLD07756 T2.glb",
+        "image": "images/T2 88.95.jpg",
+        "description": "Muv 0.814, Alunite-NH 0.186, VD color gris, text moteada, py 1 per diss, presencia de motas de biotita, alte silic mod, seric debil"
+      },
+      {
+        "name": "PECLD07756 T3",
+        "model3D": "models/PECLD07756 T3.glb",
+        "image": "images/T3 161.30.jpg",
+        "description": "MuscoviticIllite 1, VD color gris claro, text afanit, py 2 per diss, alte seri mod, silic debil"
+      },
+      {
+        "name": "PECLD07756 T4",
+        "model3D": "models/PECLD07756 T4.glb",
+        "image": "images/T4 22.00.jpg",
+        "description": "Bio 0.519, Muv 0.481, VD color gris text moteada, py 2 per diss, presencia"
+      },
+      {
+        "name": "Muestra 2",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T2_63.75.jpg",
+        "description": ""
+      },
+      {
+        "name": "Muestra 2",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T2_63.75.jpg",
+        "description": "Esta es la descripción de la muestra 2."
+      }
+    ]
+  }
+  
