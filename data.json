@@ -1,0 +1,18 @@
+{
+    "samples": [
+      {
+        "name": "Muestra 1",
+        "model3D": "models/PECLD07755T2-1.glb",
+        "image": "images/T1 16.20.jpg",
+        "description": "Esta es la descripción de la muestra 1."
+      },
+      {
+        "name": "Muestra 2",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T2 63.75.jpg",
+        "description": "Esta es la descripción de la muestra 2."
+      }
+      
+    ]
+  }
+  
