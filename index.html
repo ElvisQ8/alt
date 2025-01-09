@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Muestras Geológicas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Muestras Geológicas de Alteración</h1>
+    <p>Explora los modelos 3D, imágenes de microscopía y descripciones.</p>
+  </header>
+
+  <main>
+    <div id="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Muestra</th>
+            <th>Modelo 3D</th>
+            <th>Imagen</th>
+            <th>Descripción geológica</th>
+          </tr>
+        </thead>
+        <tbody id="sample-table">
+          <!-- Filas generadas dinámicamente -->
+        </tbody>
+      </table>
+    </div>
+  </main>
+
+  <!-- Modal para imágenes -->
+  <div id="image-modal" class="modal">
+    <span id="close-modal">&times;</span>
+    <img id="modal-image" class="modal-content" alt="Imagen ampliada">
+    <div id="caption"></div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
