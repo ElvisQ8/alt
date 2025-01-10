@@ -1,0 +1,227 @@
+{
+    "samples": [
+      {
+        "name": "PECLD07752 T1",
+        "model3D": "models/PECLD07752 T1.glb",
+        "image": "images/T1 16.20.jpg",
+        "description": "Muv 0.67, Clt 0.33, VD volcanoclastico color gris con py diss 3 per, con alt Sili mod, seri debil (no se logra diferenciar moscovita a la vista)"
+      },
+      {
+        "name": "PECLD07752 T2",
+        "model3D": "models/PECLD07752 T2.glb",
+        "image": "images/T2 63.75.jpg",
+        "description": "Muv 1, VD color gris claro con py diss 4 per y presencia de biotita puntual, con alt Sili y seri mod (micas de muscovita) "
+      },
+      {
+        "name": "PECLD07752 T3",
+        "model3D": "models/PECLD07752 T3.glb",
+        "image": "images/T3 120.30.jpg",
+        "description": "Clt 0.61, Flogopita 0.22, Kaolinite-PX 0.16, VD color gris con py 1 per diss, alt Clt en venillas, ser mod "
+      },
+      {
+        "name": "PECLD07752 T4",
+        "model3D": "models/PECLD07752 T4.glb",
+        "image": "images/T4 126.85.jpg",
+        "description": "Muv 1, VM color gris de text porf, py  5 per diss, spha en parches, alt  Clt mod en parches y seri mod (muscovita no diferenciable a simple vista)"
+      },
+      {
+        "name": "PECLD07753 T1",
+        "model3D": "models/PECLD07753 T1.glb",
+        "image": "images/T1 29.50.jpg",
+        "description": "Muv 1, VD color gris claro de text porf, py 1 per diss y parches, alt seri mod (presencia de muscovita) alte Clt debil puntual"
+      },
+      {
+        "name": "PECLD07753 T2",
+        "model3D": "models/PECLD07753 T2.glb",
+        "image": "images/T2 45.30.jpg",
+        "description": "Mont 0.69, ParagoniticIllite 0.301, VD color gris claro de text porfidoblastica, py 2 per diss y parches, alt sili mod, seric debil"
+      },
+      {
+        "name": "PECLD07753 T3",
+        "model3D": "models/PECLD07753 T3.glb",
+        "image": "images/T3 100.35.jpg",
+        "description": "Mont 0.68, Muv 0.317, VD color gris claro text afanitica, py 5 per diss, alt seri mod, Sili mod, Clt debil"
+      },
+      {
+        "name": "PECLD07754 T1",
+        "model3D": "models/PECLD07754 T1.glb",
+        "image": "images/T1 169.00.jpg",
+        "description": "MuscoviticIllite 0.564, Mont 0.436, VD  color gris claro text afanitica py en trzs, presencia de arcillas, alt seri mod, sili debil"
+      },
+      {
+        "name": "PECLD07754 T2",
+        "model3D": "models/PECLD07754 T2.glb",
+        "image": "images/T2 79.75.jpg",
+        "description": "Muv 1, VD color gris claro de text afanitica, py 2 perc diss, presencia de micas de moscovita, alt seri mod, sili mod."
+      },
+      {
+        "name": "PECLD07754 T3",
+        "model3D": "models/PECLD07754 T3.glb",
+        "image": "images/T3 95.55.jpg",
+        "description": "Muv 0.555,  VD color gris text afanitica, py 1 per diss, epidota en parches, alt Sili mod, Clt debil, seri debil, moscovita no se distingue visualmente."
+      },
+      {
+        "name": "PECLD07754 T4",
+        "model3D": "models/PECLD07754 T4.glb",
+        "image": "images/T4 147.20.jpg",
+        "description": "Muv 1, VM color gris claro, text afanitica, py 3 per diss, spha 2 per en parches, sili mod, seri mod (presencia de micas)"
+      },
+      {
+        "name": "PECLD07754 T5",
+        "model3D": "models/PECLD07754 T5.glb",
+        "image": "images/T5 57.70.jpg",
+        "description": "Muv 1, VD color gris text afanitica py 2 per, presencia motas de biot , alt sili-seri mod (presencia de pequeñas micas de moscovita)"
+      },
+      {
+        "name": "PECLD07754 T6",
+        "model3D": "models/PECLD07754 T6.glb",
+        "image": "images/T6 33.25.jpg",
+        "description": "Muv 1, VD color gris claro text afanitica, py 1 per; alt sili mod seri debil, muscovita no visible"
+      },
+      {
+        "name": "PECLD07755 T1",
+        "model3D": "models/PECLD07755 T1.glb",
+        "image": "images/T1 93.50.jpg",
+        "description": "Muv 0.788, Alunite-NH? 0.21?, VD color gris claro text afanitica, py en trzs, alt sili mod, seri deb con presencia de micas."
+      },
+      {
+        "name": "PECLD07755 T2",
+        "model3D": "models/PECLD07755 T2.glb",
+        "image": "images/T2 A 59.20.jpg",
+        "description": "Muv 1, VD color gris claro, text afanitica, py 6 per diss, alt sili mod, seri debil (presencia de micas)"
+      },
+      {
+        "name": "PECLD07755 T3",
+        "model3D": "models/PECLD07755 T3.glb",
+        "image": "images/T3 109.00.jpg",
+        "description": "Muv 1, VD color gris claro, text afanitica, py 2 per diss, alt sili mod, seri debil"
+      },
+      {
+        "name": "PECLD07755 T4",
+        "model3D": "models/PECLD07755 T4.glb",
+        "image": "images/T4 90.80.jpg",
+        "description": "MuscoviticIllite 1, VD color gris claro, text afanitica, py al 1 per diss, presencia de biot, alt sili mod, seri debil, clt debil (micas puntal)"
+      },
+      {
+        "name": "PECLD07756 T1",
+        "model3D": "models/PECLD07756 T1.glb",
+        "image": "images/T1 130.30.jpg",
+        "description": "Ep 1, VD color gris oscuro, text porfiditica, py 1 per diss, presencia de epidota en venillas, alt sili mod, Clt debil."
+      },
+      {
+        "name": "PECLD07756 T2",
+        "model3D": "models/PECLD07756 T2.glb",
+        "image": "images/T2 88.95.jpg",
+        "description": "Muv 0.814, Alunite-NH? 0.186?, VD color gris, text afanitica, py 3 per diss, motas de biot, alt sili mod, seri debil"
+      },
+      {
+        "name": "PECLD07756 T3",
+        "model3D": "models/PECLD07756 T3.glb",
+        "image": "images/T3 161.30.jpg",
+        "description": "MuscoviticIllite 1, VD color gris claro, text granular, py 1 per diss, alt seri mod"
+      },
+      {
+        "name": "PECLD07756 T4",
+        "model3D": "models/PECLD07756 T4.glb",
+        "image": "images/T4 22.00.jpg",
+        "description": "Muestra VD color gris text afanitica, py 2 per diss, presencia de biot, alt sili mod, seri debil"
+      },
+      {
+        "name": "PECLD07757 T1",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T1 15.25.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07757 T2",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T2 29.40.jpg",
+        "description": "Esta es la descripción de la muestra 2."
+      },
+      {
+        "name": "PECLD07757 T3",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T3 35.00.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07757 T4",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T4 54.30_.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07757 T5",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T5 60.15.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07758 T1",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T1 3.10.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07758 T2",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T2 16.80.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07758 T3",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T3 28.85.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07758 T4",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T4 46.30.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07758 T5",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T5 55.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07758 T6",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T6 93.55.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07758 T7",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T7 92.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07758 T8",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T8 102.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07758 T9",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T9 107.60.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07758 T10",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T10 118.10.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07758 T11",
+        "model3D": "models/PECLD07755T3.glb",
+        "image": "images/T11 121.50.jpg",
+        "description": ""
+      }
+    ]
+  }
+  
