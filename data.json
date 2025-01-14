@@ -154,7 +154,7 @@
         "name": "PECLD07757 T5",
         "model3D": "models/PECLD07757 T5.glb",
         "image": "images/T5 60.15.jpg",
-        "description": ""
+        "description": " Muestra VD color gris amarillento, text afanitica, py 2 en venillas y halos de clorita, alt clor mod, sili debil."
       },
       {
         "name": "PECLD07758 T1",
@@ -208,7 +208,7 @@
         "name": "PECLD07758 T9",
         "model3D": "models/PECLD07758 T9.glb",
         "image": "images/T9 107.60.jpg",
-        "description": "Muestra de Semimasivo"
+        "description": "Muestra de SSM con py al 45 per,, matriz de VD con alt seri debil."
       },
       {
         "name": "PECLD07758 T10",
