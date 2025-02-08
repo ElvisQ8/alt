@@ -26,7 +26,7 @@ fetch('data.json')
       img.src = sample.image;
       img.alt = `Imagen de ${sample.name}`;
       img.style.width = "100px";
-      img.onclick = () => openModal(img.src, sample.name);
+      img.onclick = () => openModal(img.src, sample.description);
       imageCell.appendChild(img);
       row.appendChild(imageCell);
 
