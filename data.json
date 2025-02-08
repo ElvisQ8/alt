@@ -224,25 +224,25 @@
       },
       {
         "name": "VM BUENO C100 T1",
-        "model3D": "",
+        "model3D": "VM Bueno C100 Terraspec 1.glb",
         "image": "images/VM BUENO 1C.jpg",
         "description": "VD color gris, text afanitica, py 4 per diss y en parches en proceso de oxidacion puntual, feldepato potasicos puntual, alt sili mod,seri debil."
       },
       {
         "name": "VM BUENO C100 T2",
-        "model3D": "",
+        "model3D": "VM Bueno C100 Terraspec 2.glb",
         "image": "images/VM BUENO 2B.jpg",
         "description": "VD color gris, tex afanitica, py 3 per diss y en proceso de oxidacion, alt sili mod, seri debil."
       },
       {
         "name": "VM BUENO C100 T3",
-        "model3D": "",
+        "model3D": "VM Bueno C100 Terraspec 3.glb",
         "image": "images/VM BUENO 3.jpg",
         "description": "VD color gris, text afanitica, py 2 per diss y parches, alt sili mod, seri debil"
       },
       {
         "name": "VM BUENO C100 T4",
-        "model3D": "",
+        "model3D": "VM Bueno C100 Terraspec 4.glb",
         "image": "images/VM BUENO 4A.jpg",
         "description": "VM  color gris, text afanitica, py 13 per diss y en parches, gal 3 per en parches y diss, alt sili mod, seri debil, clor debil."
       }
