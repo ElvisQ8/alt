@@ -32,49 +32,49 @@
       },
       {
         "name": "PECLD07753 T2",
-        "model3D": "models/PECLD07753 T2.glb",
+        "model3D": "models/PECLD07753 T2.GLB",
         "image": "images/T2 45.30.jpg",
         "description": "Mont 0.69, ParagoniticIllite 0.301, VD color gris claro de text porfidoblastica, py 2 per diss y parches, alt sili mod, seric debil"
       },
       {
         "name": "PECLD07753 T3",
-        "model3D": "models/PECLD07753 T3.glb",
+        "model3D": "models/PECLD07753 T3.GLB",
         "image": "images/T3 100.35.jpg",
         "description": "Mont 0.68, Muv 0.317, VD color gris claro text afanitica, py 5 per diss, alt seri mod, Sili mod, Clt debil"
       },
       {
         "name": "PECLD07754 T1",
-        "model3D": "models/PECLD07754 T1.glb",
+        "model3D": "models/PECLD07754 T1.GLB",
         "image": "images/T1 169.00.jpg",
         "description": "MuscoviticIllite 0.564, Mont 0.436, VD  color gris claro text afanitica py en trzs, presencia de arcillas, alt seri mod, sili debil"
       },
       {
         "name": "PECLD07754 T2",
-        "model3D": "models/PECLD07754 T2.glb",
+        "model3D": "models/PECLD07754 T2.GLB",
         "image": "images/T2 79.75.jpg",
         "description": "Muv 1, VD color gris claro de text afanitica, py 2 perc diss, presencia de micas de moscovita, alt seri mod, sili mod."
       },
       {
         "name": "PECLD07754 T3",
-        "model3D": "models/PECLD07754 T3.glb",
+        "model3D": "models/PECLD07754 T3.GLB",
         "image": "images/T3 95.55.jpg",
         "description": "Muv 0.555,  VD color gris text afanitica, py 1 per diss, epidota en parches, alt Sili mod, Clt debil, seri debil, moscovita no se distingue visualmente."
       },
       {
         "name": "PECLD07754 T4",
-        "model3D": "models/PECLD07754 T4.glb",
+        "model3D": "models/PECLD07754 T4.GLB",
         "image": "images/T4 147.20.jpg",
         "description": "Muv 1, VM color gris claro, text afanitica, py 3 per diss, spha 2 per en parches, sili mod, seri mod (presencia de micas)"
       },
       {
         "name": "PECLD07754 T5",
-        "model3D": "models/PECLD07754 T5.glb",
+        "model3D": "models/PECLD07754 T5.GLB",
         "image": "images/T5 57.70.jpg",
         "description": "Muv 1, VD color gris text afanitica py 2 per, presencia motas de biot , alt sili-seri mod (presencia de pequeñas micas de moscovita)"
       },
       {
         "name": "PECLD07754 T6",
-        "model3D": "models/PECLD07754 T6.glb",
+        "model3D": "models/PECLD07754 T6.GLB",
         "image": "images/T6 33.25.jpg",
         "description": "Muv 1, VD color gris claro text afanitica, py 1 per; alt sili mod seri debil, muscovita no visible"
       },
@@ -128,31 +128,31 @@
       },
       {
         "name": "PECLD07757 T1",
-        "model3D": "models/PECLD07757 T1.glb",
+        "model3D": "models/PECLD07757 T1.GLB",
         "image": "images/T1 15.25.jpg",
         "description": "Muestra VD color gris oscuro, text moteada, py 3 per diss, presencia de biot, alt sili mod, clor debil, seri debil "
       },
       {
         "name": "PECLD07757 T2",
-        "model3D": "models/PECLD07757 T2.glb",
+        "model3D": "models/PECLD07757 T2.GLB",
         "image": "images/T2 29.40.jpg",
         "description": "Muestra VD color gris claro, text afanitica, py 1 per en parches en proceso de oxidacion, presencia de feldespatos potasicos, alt sili mod, seri debil, clor debil"
       },
       {
         "name": "PECLD07757 T3",
-        "model3D": "models/PECLD07757 T3.glb",
+        "model3D": "models/PECLD07757 T3.GLB",
         "image": "images/T3 35.00.jpg",
         "description": "Muestra VD color gris claro, text afanitica,baritina intergranular, py 10 per diss y en parches, alt seri mod y sili mod"
       },
       {
         "name": "PECLD07757 T4",
-        "model3D": "models/PECLD07757 T4.glb",
+        "model3D": "models/PECLD07757 T4.GLB",
         "image": "images/T4 54.30_.jpg",
         "description": "Muestra VD color gris, tex afanitica, py 6 per de grano fino diss y rellenando fracturas, alt sili mod, clor mod"
       },
       {
         "name": "PECLD07757 T5",
-        "model3D": "models/PECLD07757 T5.glb",
+        "model3D": "models/PECLD07757 T5.GLB",
         "image": "images/T5 60.15.jpg",
         "description": " Muestra VD color gris amarillento, text afanitica, py 2 en venillas y halos de clorita, alt clor mod, sili debil."
       },
