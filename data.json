@@ -285,25 +285,25 @@
       {
         "name": "VM Malo CX620 OB9 1820 T1",
         "model3D": "models/VM Malo Cx-620 OB9 1820 Terraspec 1.glb",
-        "image": "",
+        "image": "images/CX 620-OB9 1B.jpg",
         "description": "VM color gris, text afanitica, py 2 per diss, alt, sili mod, seri deb puntual, clor debil."
       },
       {
         "name": "VM Malo CX620 OB9 1820 T2",
         "model3D": "models/VM Malo Cx-620 OB9 1820 Terraspec 2.glb",
-        "image": "",
+        "image": "images/CX 620-OB9 2.jpg",
         "description": "VM color gris claro, text af o porf, py en trzs diss, alte silice mod a fuert, presencia de biotitas de forma diseminada."
       },
       {
         "name": "VM Malo CX620 OB9 1820 T3",
         "model3D": "models/VM Malo Cx-620 OB9 1820 Terraspec 3.glb",
-        "image": "",
+        "image": "images/CX 620-OB9 3.jpg",
         "description": "VM color gris, text afanitica, py 3 per diss, alt, sili mod, seri debil, presencia de micas puntuales de muscovita."
       },
       {
         "name": "VM Malo CX620 OB9 1820 T4",
         "model3D": "models/VM Malo Cx-620 OB9 1820 Terraspec 4.glb",
-        "image": "",
+        "image": "images/CX 620-OB9 4A.jpg",
         "description": "VM color gris, text afanitica, py en trzs de forma diss, presencia de biotitas, alte sili mod, seri debil y clor debil de manera puntual."
       }
     ]
