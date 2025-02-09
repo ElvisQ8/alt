@@ -249,19 +249,19 @@
       {
         "name": "VM MALO CX620 OB9 1880 1",
         "model3D": "models/VM Malo2 Cx-620 OB9 1880 1.glb",
-        "image": "",
+        "image": "images/VM MALO 1 CX 620 1880.jpg",
         "description": "VD color gris, text afanitica, py 6 per  diss y bandas, presencia de pirrotina, trzs de cpy en parches puntuales, alt silice mod, clor debil, seri debil con presencia de micas."
       },
       {
         "name": "VM MALO CX620 OB9 1880 2",
         "model3D": "models/VM Malo2 Cx-620 OB9 1880 2.glb",
-        "image": "",
+        "image": "images/VM MALO 2A CX 620 1880.jpg",
         "description": "VD color gris claro, text afanitica, py 2 per en parches, presencia puntual de pirrotina, alt silice mod, clor mod, seri debil, se observa presencia de micas de manera puntual."
       },
       {
         "name": "VM MALO CX620 OB9 1880 3",
         "model3D": "models/VM Malo2 Cx-620 OB9 1880 3.glb",
-        "image": "",
+        "image": "images/VM MALO 3A CX 620 1880.jpg",
         "description": "VD colo gris, tex afanitica, py 2 per en parches y diss, trzs de pirrotina puntual,  sili mod, clor debil, seri deb."
       },
       {
@@ -273,7 +273,7 @@
       {
         "name": "VM BUENO CANCHA 100 DENS 6",
         "model3D": "models/VM Bueno C100 Densidad 6.glb",
-        "image": "",
+        "image": "images/VM MALO 4A CX 620 1880.jpg",
         "description": "VM color gris, text afanitica, py 12 per diss, cpy 1 per en parch, gal 3 per en parch, clor debil, seri debil."
       },
       {
