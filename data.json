@@ -305,6 +305,306 @@
         "model3D": "models/VM Malo Cx-620 OB9 1820 Terraspec 4.glb",
         "image": "images/CX 620-OB9 4A.jpg",
         "description": "VM color gris, text afanitica, py en trzs de forma diss, presencia de biotitas, alte sili mod, seri debil y clor debil de manera puntual."
+      },
+      {
+        "name": "PECLD07765 T1",
+        "model3D": "",
+        "image": "images/PECLD07765 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07765 T2",
+        "model3D": "",
+        "image": "images/PECLD07765 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07765 T3",
+        "model3D": "",
+        "image": "images/PECLD07765 T3.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07765 T4",
+        "model3D": "",
+        "image": "images/PECLD07765 T4.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07763 T1",
+        "model3D": "",
+        "image": "images/PECLD07763 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07763 T2",
+        "model3D": "",
+        "image": "images/PECLD07763 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07763 T4",
+        "model3D": "",
+        "image": "images/PECLD07763 T4.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07763 T6",
+        "model3D": "",
+        "image": "images/PECLD07763 T6.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07769 T1",
+        "model3D": "",
+        "image": "images/PECLD07769 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07763 T2",
+        "model3D": "",
+        "image": "images/PECLD07763 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07763 T4",
+        "model3D": "",
+        "image": "images/PECLD07763 T4.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07763 T6",
+        "model3D": "",
+        "image": "images/PECLD07763 T6.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07769 T1",
+        "model3D": "",
+        "image": "images/PECLD07769 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07769 T2",
+        "model3D": "",
+        "image": "images/PECLD07769 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07769 T3",
+        "model3D": "",
+        "image": "images/PECLD07769 T3.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07773 T1",
+        "model3D": "",
+        "image": "images/PECLD07773 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07773 T2",
+        "model3D": "",
+        "image": "images/PECLD07773 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07773 T3",
+        "model3D": "",
+        "image": "images/PECLD07773 T3.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07773 T4",
+        "model3D": "",
+        "image": "images/PECLD07773 T4.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07766 T1",
+        "model3D": "",
+        "image": "images/PECLD07766 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07766 T2",
+        "model3D": "",
+        "image": "images/PECLD07766 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07766 T3",
+        "model3D": "",
+        "image": "images/PECLD07766 T3.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07766 T4",
+        "model3D": "",
+        "image": "images/PECLD07766 T4.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07766 T5",
+        "model3D": "",
+        "image": "images/PECLD07766 T5.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07789 T1",
+        "model3D": "",
+        "image": "images/PECLD07789 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07789 T2",
+        "model3D": "",
+        "image": "images/PECLD07789 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07789 T3",
+        "model3D": "",
+        "image": "images/PECLD07789 T3.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07787 T1",
+        "model3D": "",
+        "image": "images/PECLD07787 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07787 T2",
+        "model3D": "",
+        "image": "images/PECLD07787 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07787 T3",
+        "model3D": "",
+        "image": "images/PECLD07787 T3.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07787 T4",
+        "model3D": "",
+        "image": "images/PECLD07787 T4.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07787 T5",
+        "model3D": "",
+        "image": "images/PECLD07787 T5.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07786 T1",
+        "model3D": "",
+        "image": "images/PECLD07786 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07786 T2",
+        "model3D": "",
+        "image": "images/PECLD07786 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07785 T1",
+        "model3D": "",
+        "image": "images/PECLD07785 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07785 T2",
+        "model3D": "",
+        "image": "images/PECLD07785 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07785 T3",
+        "model3D": "",
+        "image": "images/PECLD07785 T3.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07785 T4",
+        "model3D": "",
+        "image": "images/PECLD07785 T4.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07784 T1",
+        "model3D": "",
+        "image": "images/PECLD07784 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07784 T2",
+        "model3D": "",
+        "image": "images/PECLD07784 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07784 T3",
+        "model3D": "",
+        "image": "images/PECLD07784 T3.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07784 T4",
+        "model3D": "",
+        "image": "images/PECLD07784 T4.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07784 T5",
+        "model3D": "",
+        "image": "images/PECLD07784 T5.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07784 T6",
+        "model3D": "",
+        "image": "images/PECLD07784 T6.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07762 T1",
+        "model3D": "",
+        "image": "images/PECLD07762 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07762 T2",
+        "model3D": "",
+        "image": "images/PECLD07762 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07762 T3",
+        "model3D": "",
+        "image": "images/PECLD07762 T3.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07762 T4",
+        "model3D": "",
+        "image": "images/PECLD07762 T4.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07762 T5",
+        "model3D": "",
+        "image": "images/PECLD07762 T5.jpg",
+        "description": ""
+      },      
+      {
+        "name": "",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": ""
       }
     ]
   }
