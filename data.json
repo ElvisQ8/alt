@@ -273,13 +273,13 @@
       {
         "name": "VM BUENO CANCHA 100 DENS 6",
         "model3D": "models/VM Bueno C100 Densidad 6.glb",
-        "image": "",
+        "image": "images/VM BUENO 6 DENSIDAD.jpg",
         "description": "VM color gris, text afanitica, py 12 per diss, cpy 1 per en parch, gal 3 per en parch, clor debil, seri debil."
       },
       {
         "name": "VM BUENO CANCHA 100 DENS 5",
         "model3D": "models/VM Bueno C100 Densidad 5.glb",
-        "image": "",
+        "image": "images/VM BUENO 5B DENSIDAD.jpg",
         "description": "VD color gris, text afanitica, py 8 per, cpy 1 per, gal 3 per en parch y diss, alt sili mod, seri debil puntual."
       },
       {
