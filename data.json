@@ -580,7 +580,13 @@
         "name": "",
         "model3D": "",
         "image": "images/.jpg",
-        "description": ""
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07835",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"
       }
     ]
   }
