@@ -307,28 +307,34 @@
         "description": "VM color gris, text afanitica, py en trzs de forma diss, presencia de biotitas, alte sili mod, seri debil y clor debil de manera puntual."
       },
       {
-        "name": "PECLD07765 T1",
+        "name": "PECLD07762 T1",
         "model3D": "",
-        "image": "images/PECLD07765 T1.jpg",
-        "description": "Muv 0.83, Dickite 0.16,"
+        "image": "images/PECLD07762 T1.jpg",
+        "description": "Alunite 1, "
       },
       {
-        "name": "PECLD07765 T2",
+        "name": "PECLD07762 T2",
         "model3D": "",
-        "image": "images/PECLD07765 T2.jpg",
-        "description": "Muv 0.63, Clt-FeMg 0.36"
+        "image": "images/PECLD07762 T2.jpg",
+        "description": "Muv 1, "
       },
       {
-        "name": "PECLD07765 T3",
+        "name": "PECLD07762 T3",
         "model3D": "",
-        "image": "images/PECLD07765 T3.jpg",
-        "description": "Clt-FeMg 0.83, Muv 0.16, "
+        "image": "images/PECLD07762 T3.jpg",
+        "description": "Phengite 0.4, mont 0.40"
       },
       {
-        "name": "PECLD07765 T4",
+        "name": "PECLD07762 T4",
         "model3D": "",
-        "image": "images/PECLD07765 T4.jpg",
-        "description": "Clt-FeMg 1, "
+        "image": "images/PECLD07762 T4.jpg",
+        "description": "Muv 0.78, Gypsum 0.21"
+      },
+      {
+        "name": "PECLD07762 T5",
+        "model3D": "",
+        "image": "images/PECLD07762 T5.jpg",
+        "description": "Silice, gris claro, con py subhedrales 1 per diss, parches de Clt"
       },
       {
         "name": "PECLD07763 T1",
@@ -353,6 +359,60 @@
         "model3D": "",
         "image": "images/PECLD07763 T6.jpg",
         "description": "Biot 0.79, Muv 0.20"
+      },
+      {
+        "name": "PECLD07765 T1",
+        "model3D": "",
+        "image": "images/PECLD07765 T1.jpg",
+        "description": "Muv 0.83, Dickite 0.16,"
+      },
+      {
+        "name": "PECLD07765 T2",
+        "model3D": "",
+        "image": "images/PECLD07765 T2.jpg",
+        "description": "Muv 0.63, Clt-FeMg 0.36"
+      },
+      {
+        "name": "PECLD07765 T3",
+        "model3D": "",
+        "image": "images/PECLD07765 T3.jpg",
+        "description": "Clt-FeMg 0.83, Muv 0.16, "
+      },
+      {
+        "name": "PECLD07765 T4",
+        "model3D": "",
+        "image": "images/PECLD07765 T4.jpg",
+        "description": "Clt-FeMg 1, "
+      },
+      {
+        "name": "PECLD07766 T1",
+        "model3D": "",
+        "image": "images/PECLD07766 T1.jpg",
+        "description": "Muv 1, "
+      },
+      {
+        "name": "PECLD07766 T2",
+        "model3D": "",
+        "image": "images/PECLD07766 T2.jpg",
+        "description": "Muv 1, "
+      },
+      {
+        "name": "PECLD07766 T3",
+        "model3D": "",
+        "image": "images/PECLD07766 T3.jpg",
+        "description": "Phengite 0.79, Vegetat. 0.20"
+      },
+      {
+        "name": "PECLD07766 T4",
+        "model3D": "",
+        "image": "images/PECLD07766 T4.jpg",
+        "description": "Muv 1, "
+      },
+      {
+        "name": "PECLD07766 T5",
+        "model3D": "",
+        "image": "images/PECLD07766 T5.jpg",
+        "description": "Muv 1, "
       },
       {
         "name": "PECLD07769 T1",
@@ -397,36 +457,6 @@
         "description": "Muv 1"
       },
       {
-        "name": "PECLD07766 T1",
-        "model3D": "",
-        "image": "images/PECLD07766 T1.jpg",
-        "description": "Muv 1, "
-      },
-      {
-        "name": "PECLD07766 T2",
-        "model3D": "",
-        "image": "images/PECLD07766 T2.jpg",
-        "description": "Muv 1, "
-      },
-      {
-        "name": "PECLD07766 T3",
-        "model3D": "",
-        "image": "images/PECLD07766 T3.jpg",
-        "description": "Phengite 0.79, Vegetat. 0.20"
-      },
-      {
-        "name": "PECLD07766 T4",
-        "model3D": "",
-        "image": "images/PECLD07766 T4.jpg",
-        "description": "Muv 1, "
-      },
-      {
-        "name": "PECLD07766 T5",
-        "model3D": "",
-        "image": "images/PECLD07766 T5.jpg",
-        "description": "Muv 1, "
-      },
-      {
         "name": "PECLD07789 T1",
         "model3D": "",
         "image": "images/PECLD07789 T1.jpg",
@@ -443,72 +473,6 @@
         "model3D": "",
         "image": "images/PECLD07789 T3.jpg",
         "description": "Null, "
-      },
-      {
-        "name": "PECLD07787 T1",
-        "model3D": "",
-        "image": "images/PECLD07787 T1.jpg",
-        "description": ""
-      },
-      {
-        "name": "PECLD07787 T2",
-        "model3D": "",
-        "image": "images/PECLD07787 T2.jpg",
-        "description": ""
-      },
-      {
-        "name": "PECLD07787 T3",
-        "model3D": "",
-        "image": "images/PECLD07787 T3.jpg",
-        "description": ""
-      },
-      {
-        "name": "PECLD07787 T4",
-        "model3D": "",
-        "image": "images/PECLD07787 T4.jpg",
-        "description": ""
-      },
-      {
-        "name": "PECLD07787 T5",
-        "model3D": "",
-        "image": "images/PECLD07787 T5.jpg",
-        "description": ""
-      },
-      {
-        "name": "PECLD07786 T1",
-        "model3D": "",
-        "image": "images/PECLD07786 T1.jpg",
-        "description": "Aspectral 1, "
-      },
-      {
-        "name": "PECLD07786 T2",
-        "model3D": "",
-        "image": "images/PECLD07786 T2.jpg",
-        "description": "Muv 1, "
-      },
-      {
-        "name": "PECLD07785 T1",
-        "model3D": "",
-        "image": "images/PECLD07785 T1.jpg",
-        "description": "Muv 0.64, Vegetat. 0.35"
-      },
-      {
-        "name": "PECLD07785 T2",
-        "model3D": "",
-        "image": "images/PECLD07785 T2.jpg",
-        "description": "Biotite 0.56, Clt-Mg 0.27"
-      },
-      {
-        "name": "PECLD07785 T3",
-        "model3D": "",
-        "image": "images/PECLD07785 T3.jpg",
-        "description": "Phlogopite 0.63, Vegetat. 0.36"
-      },
-      {
-        "name": "PECLD07785 T4",
-        "model3D": "",
-        "image": "images/PECLD07785 T4.jpg",
-        "description": "Clt-FeMg 0.62, Biotite 0.37"
       },
       {
         "name": "PECLD07784 T1",
@@ -547,46 +511,490 @@
         "description": "Aspectral 1, "
       },
       {
-        "name": "PECLD07762 T1",
+        "name": "PECLD07785 T1",
         "model3D": "",
-        "image": "images/PECLD07762 T1.jpg",
-        "description": "Alunite 1, "
+        "image": "images/PECLD07785 T1.jpg",
+        "description": "Muv 0.64, Vegetat. 0.35"
       },
       {
-        "name": "PECLD07762 T2",
+        "name": "PECLD07785 T2",
         "model3D": "",
-        "image": "images/PECLD07762 T2.jpg",
-        "description": "Muv 1, "
+        "image": "images/PECLD07785 T2.jpg",
+        "description": "Biotite 0.56, Clt-Mg 0.27"
       },
       {
-        "name": "PECLD07762 T3",
+        "name": "PECLD07785 T3",
         "model3D": "",
-        "image": "images/PECLD07762 T3.jpg",
-        "description": "Phengite 0.4, mont 0.40"
+        "image": "images/PECLD07785 T3.jpg",
+        "description": "Phlogopite 0.63, Vegetat. 0.36"
       },
       {
-        "name": "PECLD07762 T4",
+        "name": "PECLD07785 T4",
         "model3D": "",
-        "image": "images/PECLD07762 T4.jpg",
-        "description": "Muv 0.78, Gypsum 0.21"
-      },
-      {
-        "name": "PECLD07762 T5",
-        "model3D": "",
-        "image": "images/PECLD07762 T5.jpg",
-        "description": "null, "
+        "image": "images/PECLD07785 T4.jpg",
+        "description": "Clt-FeMg 0.62, Biotite 0.37"
       },      
       {
-        "name": "",
+        "name": "PECLD07786 T1",
+        "model3D": "",
+        "image": "images/PECLD07786 T1.jpg",
+        "description": "Aspectral 1, "
+      },
+      {
+        "name": "PECLD07786 T2",
+        "model3D": "",
+        "image": "images/PECLD07786 T2.jpg",
+        "description": "Muv 1, "
+      },      
+      {
+        "name": "PECLD07787 T1",
+        "model3D": "",
+        "image": "images/PECLD07787 T1.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07787 T2",
+        "model3D": "",
+        "image": "images/PECLD07787 T2.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07787 T3",
+        "model3D": "",
+        "image": "images/PECLD07787 T3.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07787 T4",
+        "model3D": "",
+        "image": "images/PECLD07787 T4.jpg",
+        "description": ""
+      },
+      {
+        "name": "PECLD07787 T5",
+        "model3D": "",
+        "image": "images/PECLD07787 T5.jpg",
+        "description": ""
+      },  
+      {
+        "name": "PECLD07789 T1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "Clor-FeMg 0.605, Vegetation-Dry 0.221, Epid 0.174, D1 Gris oscuro, text afanitica, py 1 per, venillas de calcita, alt clor mod"
+      },
+      {
+        "name": "PECLD07789 T2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "Musc 0.848, Caol-PX 0.152, VD, gris claro, txt afanitica, py 3 per parches y diss, alt sili mod, presenta arcillas mod"
+      },  
+      {
+        "name": "PECLD07789 T3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "D, gris claro, text porfiritica con fenocristales de horn, py 1 per diss, presenta alt clor mod"
+      },
+      {
+        "name": "PECLD07800 T1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07800 T2",
         "model3D": "",
         "image": "images/.jpg",
         "description": "hola soy yami"
       },
       {
-        "name": "PECLD07835",
+        "name": "PECLD07800 T3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07802 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07802 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07802 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07804 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07804 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07804 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07805 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07805 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07805 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07805 M4",
         "model3D": "",
         "image": "images/.jpg",
         "description": "hola soy nay"
+      },  
+      {
+        "name": "PECLD07805 M5",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07805 M6",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07805 M7",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07805 M8",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07806 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07806 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07806 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07807 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07807 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07808 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07808 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07809 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07809 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07809 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07818 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07818 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07825 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07825 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07826 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07826 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07826 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07827 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07827 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07827 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07828 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07828 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07828 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07828 M4",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07829 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07829 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07829 M4",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07830 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07830 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07830 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07830 M4",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07831 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07833 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07833 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07835 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07835 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07835 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07836 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07836 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07836 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07836 M4",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07836 M5",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07836 M6",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07836 M7",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07836 M8",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07838 M1",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy nay"      
+      },  
+      {
+        "name": "PECLD07838 M2",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "hola soy yami"
+      },
+      {
+        "name": "PECLD07838 M3",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "VD volcanoclastico gris; alt sili y seri mod; py 3 per en diss; spha 1; galn 1 per en diss"      
+      },  
+      {
+        "name": "PECLD07838 M4",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "VD volcanoclastico gris; alt sili y seri mod; py 3 per en diss; galn 1 per en diss y parches; trzs de Cu grises; con ligera orientacion; presencia de veta de qtz lechoso 25 cm; leve fract"
+      },
+      {
+        "name": "PECLD07838 M5",
+        "model3D": "",
+        "image": "images/.jpg",
+        "description": "VD volcanoclastico gris oscuro con motas elongadas de biot, alt sili y biot mod y seri deb; py 2 per; leve fract"      
       }
     ]
   }
